@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj Patil
-- 👀 I’m interested in Core Java, Spring, Hibernate
+- 👀 I’m interested in Core Java, Selenium, Automation, Postman
 - 🌱 I’m currently deep diving into Core Java features
 - 📫 How to reach me suraj777patil@gmail.com / suraj1877patil@hotmail.com
 
